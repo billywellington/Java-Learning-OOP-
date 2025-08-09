@@ -54,15 +54,15 @@ This repository is meant to:
 ---
 ### **Stage 1 — Java Basics**
 
-* [x ] Java Setup ☕
-* [x ] Variables ❌
-* [x ] Swap two variables 💱
-* [x ] User input ⌨️
+* [x] Java Setup ☕
+* [x] Variables ❌
+* [x] Swap two variables 💱
+* [x] User input ⌨️
 * [x] Expressions 🧮
 * [x] GUI intro 🚩
-* [x ] Math class 📐
-* [x ] Random numbers 🎲
-* [x ] If statements 🚧
+* [x] Math class 📐
+* [x] Random numbers 🎲
+* [x] If statements 🚧
 * [ ] Switches ⬇
 * [ ] Logical operators ❗
 * [ ] While loop 🔄
