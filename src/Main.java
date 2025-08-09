@@ -3,8 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         int age_b, age_k, temp, year, birthYearB, birthYearK;
-        birthYearB = 1998;
-        birthYearK = 1992;
+        birthYearB = 1992;
+        birthYearK = 1998;
         year = 2025;
         age_b = year - birthYearB;
         age_k = year - birthYearK;
