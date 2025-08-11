@@ -63,11 +63,11 @@ This repository is meant to:
 * [x] Math class 📐
 * [x] Random numbers 🎲
 * [x] If statements 🚧
-* [ ] Switches ⬇
-* [ ] Logical operators ❗
-* [ ] While loop 🔄
-* [ ] For loop ➰
-* [ ] Nested loops ➿
+* [x] Switches ⬇
+* [x] Logical operators ❗
+* [x] While loop 🔄
+* [x] For loop ➰
+* [x] Nested loops ➿
 * [ ] Arrays 🚗
 * [ ] 2D arrays 🚚
 * [ ] String methods 💬
