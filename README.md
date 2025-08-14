@@ -68,11 +68,11 @@ This repository is meant to:
 * [x] While loop 🔄
 * [x] For loop ➰
 * [x] Nested loops ➿
-* [ ] Arrays 🚗
-* [ ] 2D arrays 🚚
-* [ ] String methods 💬
-* [ ] Wrapper classes 🎁
-* [ ] ArrayList 🧾
+* [x] Arrays 🚗
+* [x] 2D arrays 🚚
+* [x] String methods 💬
+* [x] Wrapper classes 🎁
+* [x] ArrayList 🧾
 * [ ] 2D ArrayList 📜
 * [ ] For-each loop 🔃
 * [ ] Methods 📞
