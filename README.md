@@ -73,17 +73,17 @@ This repository is meant to:
 * [x] String methods 💬
 * [x] Wrapper classes 🎁
 * [x] ArrayList 🧾
-* [ ] 2D ArrayList 📜
-* [ ] For-each loop 🔃
-* [ ] Methods 📞
-* [ ] Overloaded methods ☎️
-* [ ] Printf 🖨️
-* [ ] Final keyword ⛔
+* [x] 2D ArrayList 📜
+* [x] For-each loop 🔃
+* [x] Methods 📞
+* [x] Overloaded methods ☎️
+* [x] Printf 🖨️
+* [x] Final keyword ⛔
 
 ### **Stage 2 — Object-Oriented Programming**
 
-* [ ] Objects (OOP) ☕
-* [ ] Constructors 👷
+* [x] Objects (OOP) ☕
+* [x] Constructors 👷
 * [ ] Variable scope 🌍
 * [ ] Overloaded constructors 🍕
 * [ ] ToString method 🎉
