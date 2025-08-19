@@ -21,7 +21,7 @@ This repository is meant to:
 ✔️ Control Flow (if, switch, loops)  
 ✔️ Methods and Parameters  
 ✔️ Classes and Objects  
-✔️ Constructors  
+✔️ Player  
 ✔️ Inheritance  
 ✔️ Polymorphism  
 ✔️ Encapsulation  

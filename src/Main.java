@@ -1,25 +1,24 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+ * Main class to run the PUBG Player simulation.
+ */
 public class Main {
+    /**
+     * Entry point of the program.
+     * Creates Player objects and displays their stats.
+     *
+     * @param args Command-line arguments
+     */
     public static void main(String[] args) {
-        int age_b, age_k, temp, year, birthYearB, birthYearK;
-        birthYearB = 1992;
-        birthYearK = 1998;
-        year = 2025;
-        age_b = year - birthYearB;
-        age_k = year - birthYearK;
+        Player p1 = new Player("Stellies", 100123, 50, 30, 200, 75);
+        Player p2 = new Player("Levinho", 100456, 40, 25, 180, 60);
+        Player p3 = new Player("Panda", 100789, 60, 40, 250, 90);
 
-        System.out.println("Billy Wellington is " + age_b + " years old.");
-        System.out.println("Kay Wellington is " + age_k + "years old.");
+        p1.displayStats();
+        p2.displayStats();
+        p3.displayStats();
 
-        temp = age_b;
-        age_b = age_k;
-        age_k = temp;
-
-        System.out.println("******* This is after swapping the ages! *******");
-
-        System.out.println("Billy Wellington is " + age_b + " years old.");
-        System.out.println("Kay Wellington is " + age_k + "years old.");
-
+        p1.playing();
+        p2.playing();
+        p3.playing();
     }
 }
