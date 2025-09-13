@@ -2,7 +2,6 @@
 
 Welcome to my **Java Learning Repository**!  
 This repo tracks my progress as I learn and explore **Java programming**, especially **Object-Oriented Programming (OOP)** concepts using IntelliJ IDEA.
-
 ---
 
 ## 📌 Purpose
@@ -44,7 +43,7 @@ This repository is meant to:
 
 ## ✅ Progress Tracker
 
-* [ ] **Stage 1:** Java Basics
+* [x] **Stage 1:** Java Basics
 * [ ] **Stage 2:** Object-Oriented Programming (OOP)
 * [ ] **Stage 3:** Collections & Data Structures
 * [ ] **Stage 4:** File Handling & Advanced Features
@@ -84,22 +83,22 @@ This repository is meant to:
 
 * [x] Objects (OOP) ☕
 * [x] Constructors 👷
-* [ ] Variable scope 🌍
-* [ ] Overloaded constructors 🍕
-* [ ] ToString method 🎉
-* [ ] Array of objects 🍱
+* [x] Variable scope 🌍
+* [x] Overloaded constructors 🍕
+* [x] ToString method 🎉
+* [x] Array of objects 🍱
 * [ ] Object passing 🏬
 * [ ] Static keyword ⚡
-* [ ] Inheritance 👪
-* [ ] Method overriding 🙅‍♂️
-* [ ] Super keyword 🦸‍♂️
-* [ ] Abstraction 👻
-* [ ] Access modifiers 🔒
-* [ ] Encapsulation 💊
-* [ ] Copy objects 🖨️
-* [ ] Interface 🦅
-* [ ] Polymorphism 🏁
-* [ ] Dynamic polymorphism ✨
+* [x] Inheritance 👪
+* [x] Method overriding 🙅‍♂️
+* [x] Super keyword 🦸‍♂️
+* [x] Abstraction 👻
+* [x] Access modifiers 🔒
+* [x] Encapsulation 💊
+* [x] Copy objects 🖨️
+* [x] Interface 🦅
+* [x] Polymorphism 🏁
+* [x] Dynamic polymorphism ✨
 
 ### **Stage 3 — Error Handling & Files**
 
