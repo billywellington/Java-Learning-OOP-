@@ -87,8 +87,8 @@ This repository is meant to:
 * [x] Overloaded constructors 🍕
 * [x] ToString method 🎉
 * [x] Array of objects 🍱
-* [ ] Object passing 🏬
-* [ ] Static keyword ⚡
+* [x] Object passing 🏬
+* [x] Static keyword ⚡
 * [x] Inheritance 👪
 * [x] Method overriding 🙅‍♂️
 * [x] Super keyword 🦸‍♂️
